@@ -1,0 +1,6 @@
+NON-REVENUE WATER REPORT - Ghana Water Limited
+District                 Supplied(gal)   Billed(gal)     NRW%    Severity
+-------------------------------------------------------------------------
+ashaiman                           300           100    66.7%    Critical
+tema                               600           300    50.0%    Critical
+teshie                             400           380     5.0%         Low
